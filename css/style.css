@@ -2071,6 +2071,10 @@ html {
     font-size: 1.5rem;
     padding: 3.125rem 0rem 1.875rem 0rem;
   }
+
+  .feedback__title {
+    padding: 3.75rem 0rem 2.5rem 0rem;
+  }
 }
 
 @media (max-width: 47.99875em) {
